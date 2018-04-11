@@ -1,1 +1,1 @@
-{"companies":[{"name": "Sky Betting and Gaming","position": "Platform Engineer","current": "y"},{"name": "William Hill", "position": "Network Engineer","current": "n"}]}
+{"companies":[{"name": "Sky Betting and Gaming","position": "Platform Engineer","current": true},{"name": "William Hill", "position": "Network Engineer","current": false}]}
