@@ -1,1 +1,1 @@
-{"endpoints":[{"id": "name","url": "/name"},{"id": "job","url": "/job"},{"id": "title","url": "/title"},{"id": "pronouns","url": "/pronouns"},{"id": "help","url": "/help"}]}
+{"Oliver Leaver-Smith"}
